@@ -1,3 +1,5 @@
+A productivity tool with AI assistance designed to help users manage tasks and boost productivity with a user friendly interface.
+ 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
